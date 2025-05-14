@@ -9,7 +9,7 @@ Welcome to the official repository for **Giuletta**, our award-winning Remotely 
 - `/docs` – Technical documentation & reports  
 - `/hardware` – PCB designs, mechanical CADs, and wiring diagrams  
 - `/firmware` – Source code for microcontrollers (ESP32, STM32, Arduino, etc.)  
-- `/control` – System modeling, PID tuning, and control simulations  
+- `/console` – System modeling, PID tuning, and control simulations  
 - `/media` – Photos, videos, and diagrams  
 - `/resources` – Datasheets, user manuals, and helpful links  
 
