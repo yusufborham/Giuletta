@@ -17,7 +17,7 @@ Welcome to the official repository for **Giuletta**, our award-winning Remotely 
 
 ## 📸 Highlights
 
-![Giuletta ROV](media/giuletta_main_view.jpg)
+![Giuletta ROV](media/ROV2.jpg)
 > *Our ROV during pool testing at the regional competition*
 
 ---
